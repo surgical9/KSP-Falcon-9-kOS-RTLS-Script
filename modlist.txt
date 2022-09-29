@@ -1,0 +1,75 @@
+v1.12.3
+
+1. ModuleManager
+2. HarmonyKSP
+3. TexturesUnlimited
+4. Kopernicus
+5. KSPBurst
+6. ClickThroughBlocker
+7. Toolbar
+8. ToolbarControl
+9. MagiCore
+10. SpaceTux_Library
+11. CommunityResourcePack
+12. KSPCommunityFixes
+13. PatchManager
+14. RealismOverhaul
+15. B9PartSwitch
+16. TextureReplacer
+17. KSPWheel
+18. DepthMasks
+19. SolverEngines
+20. FAR
+21. Restock
+22. RestockPlus
+23. ProceduralParts
+24. ProceduralFairings
+25. ROLib
+26. ROCapsules
+27. ROEngines
+28. ROHeatshields
+29. ROSolar
+30. ROTanks
+31. ModularLaunchPads
+32. SCANsat
+33. RealAntennas
+34. RealFuels
+35. RealFuels-Stock
+36. RealChute
+37. RealHeat
+38. VaporVent
+39. Camera Tools Continued
+40. KRASH
+41. KerbalConstructionTime
+42. MechJeb2
+43. Chatterer
+44. RocketSoundEnhancement
+45. RocketSoundEnhancement-Default
+46. Waterfall
+47. StockWaterfallEffects
+48. RealPlume-Stock
+49. Environmental Visual Enhancements
+50. Scatterer
+51. DistantObject
+52. PlanetShine
+53. RealSolarSystem
+54. RSS_Texture
+55. RSSVE_HR
+56. RSSDateTime
+57. Poods Deep Star Map Skybox
+58. Kerbalism
+59. ROKerbalism
+60. Conformal Decals
+61. Kerbal Reusability Expansion
+62. SpaceX ASDS
+63. kOS
+64. Trajectories
+
+(Recommended) - Flight Manager for Reusable Stages FMRS
+(Optional) - VesselMover
+(Optional) - HyperEdit
+(Optional) - Booster Guidance Boosted
+(Optional) - Reentry Particle Effect Renewed
+(Optional) - TUFX
+(Optional) - Balisticfoxs Neutral TUFX Preset
+(Optional) - JanitorsCloset
